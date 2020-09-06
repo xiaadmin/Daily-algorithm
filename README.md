@@ -1,5 +1,8 @@
 # Daily-algorithm
-每日一算法
+leetcode算法练习
+## 目录
+[100(相同的树-easy)](https://github.com/xiaadmin/Daily-algorithm/tree/master/100(%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91-easy))
+
 
 ## Commit 规范
 
